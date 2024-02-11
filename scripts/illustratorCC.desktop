@@ -5,6 +5,6 @@ Exec=bash aipath/launcher/launcher.sh
 Type=Application
 StartupNotify=true
 Comment=Illustrator CC for Linux
-Icon=illustratoricon
+Icon=AiIcon.png
 StartupWMClass=illustrator.exe
 Name[fr_FR]=Illustrator CC
