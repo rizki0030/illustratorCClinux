@@ -240,7 +240,7 @@ function launcher() {
 
     #create desktop entry
     local desktop_entry="$PWD/illustratorCC.desktop"
-    local desktop_entry_dest="/home/$USER/.local/share/applications/illustratorCC.desktop"
+    local desktop_entry_dest="/home/catalyst/Desktop/illustratorCC.desktop"
 
     if [ -f "$desktop_entry" ];then
         show_message "desktop entry detected..."
